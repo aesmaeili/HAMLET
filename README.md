@@ -4,4 +4,4 @@ The repository includes the source codes of the hierarchical multi-agent based m
 <a id="1">[1]</a> 
 Ahmad Esmaeili and John C. Gallagher and John A. Springer and Eric T. Matson (2020). 
 HAMLET: A Hierarchical Agent-based Machine Learning Platform. 
-arXiv-cs.LG.
+CoRR, abs/2010.04894. https://arxiv.org/abs/2010.04894
